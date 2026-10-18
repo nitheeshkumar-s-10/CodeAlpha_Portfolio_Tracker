@@ -1,4 +1,4 @@
-# Portfolio Tracker (Task 2)
+# Portfolio Tracker 
 
 A Python application to track stock investments, calculate total portfolio value, and generate summary reports.
 
